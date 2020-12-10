@@ -1,13 +1,15 @@
 
 
-    🤖Fede Bots Guidelines🛡️
+#    🤖Fede Bots Guidelines🛡️
 
 _________________________________________________________________________________________________________________________________________________________________________
-Prices
+# Prices
+
 Prices are available on our discord server on the channel #💰prices, If you come from our website you can join by clicking on the "Support Server" 
 
 
 _________________________________________________________________________________________________________________________________________________________________________
+# Rules/ToS
 🆒  | It is not necessary to use grammar on the server. 
 
 💡| Our server is English and can only speak in other languages in #🕉️international-chat, if you use this channel to speak English you will be bannned. 
@@ -29,13 +31,13 @@ ________________________________________________________________________________
 ⚠️ | Discuss (or talk) in announcements end in a demotion, (Announcement, Server Information). 
 
 _________________________________________________________________________________________________________________________________________________________________________
-Links
+# Links
 ToS: https://discord.com/terms
 Discord Guidelines: https://discord.com/guidelines
 
 _________________________________________________________________________________________________________________________________________________________________________
 
-Made by Fede1212156#9606. 
+# Made by Fede1212156#9606. 
 
-©Copyright all rights are reserved | and may not be used illegally. 
+# ©Copyright all rights are reserved | and may not be used illegally.
 
